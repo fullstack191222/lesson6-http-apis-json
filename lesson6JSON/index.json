@@ -1,0 +1,31 @@
+[
+    {
+        "age": 3,
+        "color": "Red",
+        "name": "foxxy",
+        "keepers": [
+            {
+                "name": "ivan",
+                "familyName": "ivanov",
+                "idNumber": 3242342
+            },
+            {
+                "name": "piotr",
+                "familyName": "petrov",
+                "idNumber": 2134234
+            }
+        ]
+    },
+    {
+        "age": 4,
+        "color": "black",
+        "name": "kitty",
+        "keepers": [
+            {
+                "name": "sidor",
+                "familyName": "sidorov",
+                "idNumber": 2131313
+            }
+        ]
+    }
+]
